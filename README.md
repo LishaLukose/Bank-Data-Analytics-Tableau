@@ -8,6 +8,7 @@ institutions to monitor key loan metrics and make data-driven decisions.
 The primary objective of this project is to analyze and visualize loan distribution, performance, and risk across various demographic and geographic segments. Using Tableau, this dashboard aims to 
 provide stakeholders with actionable insights into total loan disbursement, repayment behavior, delinquency rates, and trends based on loan types, borrower profiles, and regional data. 
 It supports better decision-making in credit policy, risk mitigation, and portfolio optimization.
+
 ## Dataset
 
 - `Bank Data Analytics.xlsx `
