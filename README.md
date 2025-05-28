@@ -1,4 +1,4 @@
-Bank-Data-Analytics-Tableau
+# Bank-Data-Analytics-Tableau
 
 This Tableau dashboard provides a comprehensive analysis of loan performance, including funding, collections, defaults, and customer segmentation across various dimensions. It enables financial 
 institutions to monitor key loan metrics and make data-driven decisions.
